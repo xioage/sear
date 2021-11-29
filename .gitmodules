@@ -1,0 +1,6 @@
+[submodule "cloudar_client"]
+	path = cloudar_client
+	url = git@github.com:xioage/cloudar_client.git
+[submodule "ImageRecoServer"]
+	path = ImageRecoServer
+	url = git@github.com:xioage/ImageRecoServer.git
